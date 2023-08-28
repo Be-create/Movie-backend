@@ -1,7 +1,6 @@
 import { connectdatabase } from './database/index.js';
 import Router from "./Routes/index.js"
 import express from "express"
-import { connectdatabase } from "./database/index.js"
 import Router from "./routes/auth.js"
 import cors from "cors"
 
