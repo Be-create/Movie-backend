@@ -10,5 +10,5 @@ Follow these steps to get the backend up and running on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/movie-api-backend.git
+   git clone [https://github.com/your-username/movie-api-backend.git](https://github.com/Be-create/Movie-backend.git)https://github.com/Be-create/Movie-backend.git
 
